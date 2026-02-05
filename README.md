@@ -14,3 +14,6 @@ You can access the video [here](https://youtu.be/qr9Z5Yyu-t8)
 
 ## Explaining Monkey Banana Game
 You can access the video [here](https://youtu.be/ci4iWSM1PR8)
+
+## Explaining Drawing Shapes Using Variables
+You can access the video [here](https://youtu.be/C-w5iqDTU_E)
