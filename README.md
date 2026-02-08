@@ -17,3 +17,6 @@ You can access the video [here](https://youtu.be/ci4iWSM1PR8)
 
 ## Explaining Drawing Shapes Using Variables
 You can access the video [here](https://youtu.be/C-w5iqDTU_E)
+
+## Explaining Soccer Ball Game Using Conditional Repeats
+You can access the video [here](https://youtu.be/GPqdMr1MC3I)
