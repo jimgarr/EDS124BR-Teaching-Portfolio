@@ -20,3 +20,6 @@ You can access the video [here](https://youtu.be/C-w5iqDTU_E)
 
 ## Explaining Soccer Ball Game Using Conditional Repeats
 You can access the video [here](https://youtu.be/GPqdMr1MC3I)
+
+## Explaining Target Ball Game Using If Else
+You can access the video [here](https://youtu.be/RP58pKK8kOQ)
