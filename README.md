@@ -23,3 +23,6 @@ You can access the video [here](https://youtu.be/GPqdMr1MC3I)
 
 ## Explaining Target Ball Game Using If Else
 You can access the video [here](https://youtu.be/RP58pKK8kOQ)
+
+## Explaining Penguin going for swim using nested if else
+You can access the video [here](https://youtu.be/Fm-37j8m6Os)
