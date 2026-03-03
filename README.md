@@ -26,3 +26,6 @@ You can access the video [here](https://youtu.be/RP58pKK8kOQ)
 
 ## Explaining Penguin going for swim using nested if else
 You can access the video [here](https://youtu.be/Fm-37j8m6Os)
+
+## Explaining Buried Treasure Game
+You can access the video [here](https://youtu.be/1dl2gCo2wYA)
