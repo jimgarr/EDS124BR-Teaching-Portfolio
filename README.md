@@ -29,3 +29,6 @@ You can access the video [here](https://youtu.be/Fm-37j8m6Os)
 
 ## Explaining Buried Treasure Game
 You can access the video [here](https://youtu.be/1dl2gCo2wYA)
+
+## Explaining Painting a Picture
+You can access the video [here](https://youtu.be/V6f85tPaX-8)
