@@ -32,3 +32,6 @@ You can access the video [here](https://youtu.be/1dl2gCo2wYA)
 
 ## Explaining Painting a Picture
 You can access the video [here](https://youtu.be/V6f85tPaX-8)
+
+## Explaining Naming Countries With a Starting Letter Program
+You can access the video [here](https://youtu.be/msbFQLwUkes)
